@@ -1,0 +1,7 @@
+Mohr's Circle Results
+======================
+Sigma_avg = -60.00
+R (Radius) = 237.07
+Sigma_1 = 177.07
+Sigma_2 = -297.07
+Tau_max = 237.07

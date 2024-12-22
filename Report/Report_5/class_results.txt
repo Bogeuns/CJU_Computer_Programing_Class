@@ -1,0 +1,2 @@
+Class 1 Average: 85.60
+Class 2 Average: 85.97
